@@ -1,0 +1,21 @@
+{
+  "name": "minecraft-web-console",
+  "version": "0.0.1",
+  "description": "simple web cosole for minecraft servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "keywords": [
+    "minecraft",
+    "web",
+    "console"
+  ],
+  "license":"MIT",
+  "author": "raycar5",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socketio": "^1.0.0"
+  }
+}

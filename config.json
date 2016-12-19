@@ -1,0 +1,4 @@
+{
+	"launchScript":"/example/ServerStart.sh",
+	"port":80
+}
